@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/yourusername/nba-player-explorer">
+  <a href="https://github.com/VRAJ09/nba-player-explorer">
     <img src="https://cdn.nba.com/manage/2020/10/nba-logoman-word-784x441.jpg" alt="logo" width="256" height="144">
   </a>
 
@@ -8,7 +8,7 @@
 
   <p align="center">
      <br />
-    <a href="https://github.com/hrutikmunigeti">Hrutik Munigeti</a>
+    <a href="https://github.com/hrutikmunigeti">Vraj Patel</a>
   <p>
   <p align="center">
                   Interactive NBA Performance Visualization Tool
