@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VRAJ09/nba-player-explorer">
-    <img src="https://i.pinimg.com/736x/5f/40/88/5f4088f61b9f42fd2605ca1b9e9298f9.jpg" alt="logo" width="256" height="256">
+    <img src="https://nbcsports.brightspotcdn.com/dims4/default/45f2d3a/2147483647/strip/false/crop/2916x1640+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fef%2F2dc745d9e60683818039ca029fdf%2Fap-101206125847-e1527112035702.jpg" alt="logo" width="256" height="256">
   </a>
 
 <h3 align="center">NBA Player Explorer: Shot Charts & Advanced Analytics (2024–25)</h3>
