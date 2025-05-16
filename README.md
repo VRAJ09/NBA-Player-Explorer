@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VRAJ09/nba-player-explorer">
-    <img src="https://i.pinimg.com/736x/5f/40/88/5f4088f61b9f42fd2605ca1b9e9298f9.jpg" alt="logo" width="256" height="144">
+    <img src="https://i.pinimg.com/736x/5f/40/88/5f4088f61b9f42fd2605ca1b9e9298f9.jpg" alt="logo" width="256" height="256">
   </a>
 
 <h3 align="center">NBA Player Explorer: Shot Charts & Advanced Analytics (2024–25)</h3>
@@ -55,7 +55,7 @@ Files:
 
 ```
 nba-player-explorer/
-├── app.R                         # Complete Shiny app script
+├── NBA_Player_Explorer.R                         # Complete Shiny app script
 ├── Data/
 │   ├── NBA_2025_Shots.csv
 │   ├── 2023-2024_NBA_Player_Stats_Regular.csv
@@ -69,8 +69,8 @@ nba-player-explorer/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nba-player-explorer.git
-cd nba-player-explorer
+git clone https://github.com/VRAJ09/NBA-Player-Explorer.git
+cd NBA-Player-Explorer
 ```
 
 ### 2. Install Required R Packages
