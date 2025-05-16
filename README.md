@@ -1,14 +1,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/VRAJ09/nba-player-explorer">
-    <img src="https://cdn.nba.com/manage/2020/10/nba-logoman-word-784x441.jpg" alt="logo" width="256" height="144">
+    <img src="https://i.pinimg.com/736x/5f/40/88/5f4088f61b9f42fd2605ca1b9e9298f9.jpg" alt="logo" width="256" height="144">
   </a>
 
 <h3 align="center">NBA Player Explorer: Shot Charts & Advanced Analytics (2024–25)</h3>
 
   <p align="center">
      <br />
-    <a href="https://github.com/hrutikmunigeti">Vraj Patel</a>
+    <a href="https://github.com/VRAJ09">Vraj Patel</a>
   <p>
   <p align="center">
                   Interactive NBA Performance Visualization Tool
