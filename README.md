@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VRAJ09/nba-player-explorer">
-    <img src="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0213%2Fnba_2000_slamdunk_01_1296x729.jpg" alt="logo">
+    <img src="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0213%2Fnba_2000_slamdunk_01_1296x729.jpg" alt="logo" width=1096 height=529>
   </a>
 
 <h3 align="center">NBA Player Explorer: Shot Charts & Advanced Analytics (2024–25)</h3>
